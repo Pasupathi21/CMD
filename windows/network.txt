@@ -1,0 +1,26 @@
+==================== OPEN CMD IN ADMINISTRATOR LEVEL ============================
+
+
+1) ipconfig -> IP related details
+
+2) ipconfig /all  --> Shows all NET WORK port and all IP's including DNS
+
+3) ipconfig /all | clip --> This will copy ip details to clipboard and you can past any other txt editors
+
+4) ipconfig /displaydns  --> This will list all DNS (DOMAIN NAME SYSTEM) cache data 
+
+5) ipconfig /flushdns --> This cmd remove all DNS cache data from you device
+
+
+
+1) netsh wlan show wlanreprot --> This cmd return the html path that file wil contains all device and WLAN related last three day dat
+2) netsh interface show interface --> This will show all connected and de-connected LAN networks
+3) netstat --> This cmd measure the Network status
+
+
+1)tasklist --> List all currently running app with PORT networks
+2) taskkill /f /PID 1888 --> This will remove the currently running mentioned PORT of PID
+
+
+
+1) powercfg /batteryreport --> This cmd generate and gave the html file path to past the path any browser 
